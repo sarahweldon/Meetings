@@ -1,8 +1,8 @@
 Meetings
 ========
 
-Write up of weekly meetings.
-Sarah Weldon
-20053323
-BSc Hons Entertainment Systems Year 4
+Write up of weekly meetings.<br>
+Sarah Weldon <br>
+20053323<br>
+BSc Hons Entertainment Systems Year 4<br>
 
